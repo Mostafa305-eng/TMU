@@ -1,4 +1,4 @@
 # TMU
 Simple Time Management Unit
 
-By TMU , You can creat a periodic or one shot tasks.
+By TMU , You can creat a periodic tasks which come every certain ticks or one shot tasks.
